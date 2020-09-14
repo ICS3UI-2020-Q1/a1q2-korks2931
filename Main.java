@@ -23,7 +23,7 @@ public class Main {
     int result = (first / second );
     //declare a variable to store remainder
     double remainder = (first % second);
-     System.out.println ( first  + " % " + second +  " is " +  result + " with a remainder of " +  remainder);
+     System.out.println ( first  + " % " + second + " is " + result + " with a remainder of " +  remainder);
 
     
   }
