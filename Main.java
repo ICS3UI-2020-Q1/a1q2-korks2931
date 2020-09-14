@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  *
- * @author 
+ * @author Sevde Korkut 
  */
 public class Main {
 
